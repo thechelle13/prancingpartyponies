@@ -1,4 +1,4 @@
-Happy Trails Pony Rides Website
+Prancing Party Ponies Website
 
 A simple, fast single-page website built with Vite.
 
@@ -24,7 +24,7 @@ Deploy to DigitalOcean
 
 Adding Your Own Photos
 
-- Place images in public/images/
+- Place images in /assets
 
 - Edit index.html - find the gallery section
 
@@ -37,7 +37,7 @@ Customizing Content
 
  What to Change File Location
 
- Business Name index.html Search "Happy Trails"
+ Business Name index.html Search "Prancing Party Ponies"
 
  Phone/Email index.html Contact section
 
